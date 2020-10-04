@@ -66,7 +66,7 @@ final List<Video> homeVideos = [
     duration: '5:10',
   ),
   Video(
-    coverUrl: 'assets/chanel4avatar.jpg',
+    coverUrl: 'assets/video4cover.jpg',
     title: 'The Valley - tubebackr',
     views: "20,346",
     date: 'Oct 3,2020',
